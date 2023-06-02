@@ -11,7 +11,7 @@ body {
     display: flex;
     flex-direction: column;
     color: #0d0d0d;
-    background: url(./images/iQoo-Neo-6-background.png) no-repeat 0 0;
+    background: url(iQoo-Neo-6-background.png) no-repeat 0 0;
     background-size: cover;
 }
 
